@@ -8,4 +8,6 @@ The Upgrade include
 <li>Using Cross entropy instead of MSE</li>
 <li>Normalized Gaussian Weight Distribution</li>
 
+<br>
+
 <a href='https://quickdraw.withgoogle.com/data'>Quick Draw Dataset</a>
