@@ -1,11 +1,9 @@
 # Quick-Draw-Replica
 <H1>Replication of google's Quick Draw</H1>
 
-The main aim of the project was to test the updgraded version of my ANN model
+The main aim of the project was to test the updated version of my ANN model
 
-The Upgrade include
-
-<li>Using Cross entropy instead of MSE</li>
+The Upgrade includes
 <li>Normalized Gaussian Weight Distribution</li>
 
 <br>
