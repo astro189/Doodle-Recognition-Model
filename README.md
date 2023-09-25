@@ -1,5 +1,5 @@
-# Quick-Draw-Replica
-<H1>Replication of google's Quick Draw</H1>
+# Doodle Recognition Model
+<H1>A small yet robust Artificial Neural Network for doodle recognition</H1>
 
 The main aim of the project was to test the updated version of my ANN model
 
